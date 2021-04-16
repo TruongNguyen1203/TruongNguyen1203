@@ -1,5 +1,5 @@
-### Hi there
-## My name is Truong Thi Thao Nguyen 👋
+## Hi there
+### My name is Truong Thi Thao Nguyen 👋
 
 
 - 🎓 I'm third-year student at University of Technology and Education HCMC
