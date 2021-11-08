@@ -3,7 +3,7 @@
 
 
 - 🎓 I'm third-year student at University of Technology and Education HCMC
-- 🔭 I’m currently working on Web developer
-- 🌱 I’m currently learning C#, .Net core, Javascript, Angular
+- 🔭 I’m currently working as a Web developer
+- 🌱 I’m currently learning C#, .Net core, HTML/CSS/JS, ReactJS
 
 
